@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    background-image: url("fon1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 24;
+    font-family:Monotype Corsiva;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h2{
+    text-align: left;
+}
+p{
+    background-color: #FFFF00;
+    margin-right: 45%;
+    float: right;
+    border-style: solid;
+    border-color: #1E90FF;
+    border-width: medium;
+}
